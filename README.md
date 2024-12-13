@@ -46,10 +46,11 @@ git clone git@github.com:Dheeraj-2645/CSE597-Project.git
 ### 2. Prepare the Dataset
 The project uses the Brain Tumor dataset, which is already structured for federated learning across 4 clients. The dataset includes:
 
-glioma tumor
-meningioma tumor
-pituitary tumor
-no tumor
+- glioma tumor
+- meningioma tumor
+- pituitary tumor
+- no tumor
+
 You can download the dataset from the following link: [Brain Tumor Dataset](https://drive.google.com/drive/folders/1__sN_2857bnhjJdEoBR48dweXRqM_ZsA?usp=sharing)
 
 Ensure the dataset follows the structure below:
