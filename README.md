@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Dheeraj-2645/CSE597-Project.git
 ```
 
 ### 2. Prepare the Dataset
@@ -97,7 +97,7 @@ The FACMIC framework achieves state-of-the-art performance on the **Brain Tumor 
 
 For reference, results from the paper are as follows:
 
-| Metric            | Average Accuracy (Acc) | Average Balanced Accuracy (Bacc) |
-|--------------------|-------------------------|-----------------------------------|
-| **Paper**         | 0.8274                  | 0.8361                           |
-| **This Run**      | *(Your calculated results here)* |
+| Metric            | Average Accuracy (Acc) 
+|--------------------|-------------------------|
+| **Paper**         | 0.8274                  |
+| **This Run**      | 0.7819 |
